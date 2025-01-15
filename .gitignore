@@ -166,3 +166,4 @@ cython_debug/
 *.tsv
 *.tab
 *.obo
+*.xlsx
